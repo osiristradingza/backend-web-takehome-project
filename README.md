@@ -1,3 +1,4 @@
+![Osiris Banner](https://github.com/osiristradingza/backend-web-takehome-project/blob/main/osiris.PNG?raw=true)
 # Backend Web Dev
 
 ## .NET Core Take Home Project
