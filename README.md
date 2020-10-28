@@ -1,7 +1,5 @@
 ![Osiris Banner](https://github.com/osiristradingza/backend-web-takehome-project/blob/main/osiris.PNG?raw=true)
-# Backend Web Dev
-
-## .NET Core Take Home Project
+# Backend Web Dev - .NET Core Take Home Project
 
 First impressions are important, second impressions are everything. So, it’s time for some
 action.
